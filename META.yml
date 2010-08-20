@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:               Task-BeLike-ALEXBIO
-version:            0.02
+version:            0.03
 abstract:           Useful modules list
 author:
     - Alessandro Ghedini <alexbio@cpan.org>
