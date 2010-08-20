@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:               Task-BeLike-ALEXBIO
-version:            0.01
+version:            0.02
 abstract:           Useful modules list
 author:
     - Alessandro Ghedini <alexbio@cpan.org>
@@ -23,7 +23,6 @@ requires:
     Crypt::RandPasswd:    0
     Devel::NYTProf:       0
     Devel::Trace:         0
-    Gnome2::GConf:        0
     JSON:                 0
     JSON::XS:             0
     JSON:PP:              0
@@ -32,11 +31,13 @@ requires:
     Module::CheckDeps:    0
     Module::Starter:      0
     Module::Starter::Smart:  0
+    Moose:                0
     Perl::Critic:         0
     Regexp::Common:       0
     Test::More:           0
     Test::Pod:            0
     Test::Pod::Coverage:  0
+    Text::Todo::Simple:   0
     WWW::GitHub::Gist:    0
     XML::Simple:          0
     YAML:                 0

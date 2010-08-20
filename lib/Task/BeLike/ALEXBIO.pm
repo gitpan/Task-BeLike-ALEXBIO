@@ -9,11 +9,11 @@ Task::BeLike::ALEXBIO - Useful modules list
 
 =head1 VERSION
 
-Version 0.01
+Version 0.02
 
 =cut
 
-our $VERSION = '0.01';
+our $VERSION = '0.02';
 
 
 =head1 SYNOPSIS
@@ -39,6 +39,16 @@ This module installs many useful dependencies
 =item * L<App::Ack>
 
 =item * L<App::TwitShell>
+
+=item * L<Text::Todo::Simple>
+
+=back
+
+=head2 Compression
+
+=over 4
+
+=item * L<Compress::LZMA::External>
 
 =back
 
@@ -74,17 +84,11 @@ This module installs many useful dependencies
 
 =item * L<Devel::Trace>
 
+=item * L<Moose>
+
 =item * L<Perl::Critic>
 
 =item * L<Regexp::Common>
-
-=back
-
-=head2 Gnome2
-
-=over 4
-
-=item * L<Gnome2::GConf>
 
 =back
 
