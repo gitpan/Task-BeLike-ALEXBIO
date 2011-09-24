@@ -9,27 +9,36 @@ use ExtUtils::MakeMaker 6.30;
 
 
 my %WriteMakefileArgs = (
-  'ABSTRACT' => 'A bunch of modules I use',
-  'AUTHOR' => 'Alessandro Ghedini <alexbio@cpan.org>',
-  'BUILD_REQUIRES' => {
-    'Test::More' => '0'
+  "ABSTRACT" => "A bunch of modules I use",
+  "AUTHOR" => "Alessandro Ghedini <alexbio\@cpan.org>",
+  "BUILD_REQUIRES" => {
+    "File::Find" => 0,
+    "File::Temp" => 0,
+    "Test::More" => 0
   },
-  'CONFIGURE_REQUIRES' => {
-    'ExtUtils::MakeMaker' => '6.30'
+  "CONFIGURE_REQUIRES" => {
+    "ExtUtils::MakeMaker" => "6.30"
   },
-  'DISTNAME' => 'Task-BeLike-ALEXBIO',
-  'EXE_FILES' => [],
-  'LICENSE' => 'perl',
-  'NAME' => 'Task::BeLike::ALEXBIO',
-  'PREREQ_PM' => {
-    'App::gist' => '0',
-    'Dist::Zilla::PluginBundle::Author::ALEXBIO' => '0',
-    'Module::CheckDeps' => '0',
-    'Text::Todo::Simple' => '0'
+  "DISTNAME" => "Task-BeLike-ALEXBIO",
+  "EXE_FILES" => [],
+  "LICENSE" => "perl",
+  "NAME" => "Task::BeLike::ALEXBIO",
+  "PREREQ_PM" => {
+    "Any::Moose" => 0,
+    "App::cpanoutdated" => 0,
+    "App::gist" => 0,
+    "Dist::Zilla::PluginBundle::Author::ALEXBIO" => 0,
+    "Module::CheckDeps" => 0,
+    "Pod::Coverage::TrustPod" => 0,
+    "Test::Pod" => "1.41",
+    "Test::Pod::Coverage" => "1.08",
+    "Text::Todo::Simple" => 0,
+    "strict" => 0,
+    "warnings" => 0
   },
-  'VERSION' => '0.04',
-  'test' => {
-    'TESTS' => 't/*.t'
+  "VERSION" => "0.05",
+  "test" => {
+    "TESTS" => "t/*.t"
   }
 );
 

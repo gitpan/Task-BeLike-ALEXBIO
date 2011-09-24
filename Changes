@@ -1,3 +1,13 @@
+==============================
+9999-99-99 99:99:99 +0000 HEAD
+==============================
+
+  [31mc37f368[m -[33m (HEAD, master)[m bump version [32m(6 seconds ago)[m
+  [31m9fc99fd[m -[33m[m add Any::Moose [32m(3 minutes ago)[m
+  [31m29846bf[m -[33m[m add pod related modules [32m(22 minutes ago)[m
+  [31m16eb7f3[m -[33m[m remove tests [32m(13 days ago)[m
+  [31ma2a5333[m -[33m[m add App::cpanoutdated [32m(3 months ago)[m
+  [31me8df6dc[m -[33m[m fix DESCRIPTION [32m(3 months ago)[m
 ===================================
 End of changes in the last 365 days
 ===================================

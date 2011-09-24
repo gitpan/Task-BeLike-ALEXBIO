@@ -1,6 +1,6 @@
 package Task::BeLike::ALEXBIO;
-BEGIN {
-  $Task::BeLike::ALEXBIO::VERSION = '0.04';
+{
+  $Task::BeLike::ALEXBIO::VERSION = '0.05';
 }
 
 use warnings;
@@ -12,7 +12,7 @@ Task::BeLike::ALEXBIO - A bunch of modules I use
 
 =head1 VERSION
 
-version 0.04
+version 0.05
 
 =head1 SYNOPSIS
 
@@ -22,10 +22,12 @@ version 0.04
 
 Install modules that I want on a fresh perl installation.
 
-    L<App::gist>
-    L<Dist::Zilla::PluginBundle::ALEXBIO>
-    L<Module::CheckDeps>
-    L<Text::Todo::Simple>
+    App::cpanoutdated
+    App::gist
+    Dist::Zilla::PluginBundle::ALEXBIO
+    Gnome2::Backgrounds
+    Module::CheckDeps
+    Text::Todo::Simple
 
 Most of the "heavier" modules (like L<Moose> and L<Dist::Zilla>), are installed
 from the L<Debian|http://www.debian.org> archive.
