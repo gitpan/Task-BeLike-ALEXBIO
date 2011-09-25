@@ -25,10 +25,12 @@ my %WriteMakefileArgs = (
   "NAME" => "Task::BeLike::ALEXBIO",
   "PREREQ_PM" => {
     "Any::Moose" => 0,
-    "App::cpanoutdated" => 0,
     "App::gist" => 0,
+    "Dist::Zilla" => 0,
     "Dist::Zilla::PluginBundle::Author::ALEXBIO" => 0,
     "Module::CheckDeps" => 0,
+    "Moose" => 0,
+    "Mouse" => 0,
     "Pod::Coverage::TrustPod" => 0,
     "Test::Pod" => "1.41",
     "Test::Pod::Coverage" => "1.08",
@@ -36,7 +38,7 @@ my %WriteMakefileArgs = (
     "strict" => 0,
     "warnings" => 0
   },
-  "VERSION" => "0.05",
+  "VERSION" => "0.06",
   "test" => {
     "TESTS" => "t/*.t"
   }

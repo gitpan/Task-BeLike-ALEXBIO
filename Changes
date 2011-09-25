@@ -2,12 +2,20 @@
 9999-99-99 99:99:99 +0000 HEAD
 ==============================
 
-  [31mc37f368[m -[33m (HEAD, master)[m bump version [32m(6 seconds ago)[m
-  [31m9fc99fd[m -[33m[m add Any::Moose [32m(3 minutes ago)[m
-  [31m29846bf[m -[33m[m add pod related modules [32m(22 minutes ago)[m
-  [31m16eb7f3[m -[33m[m remove tests [32m(13 days ago)[m
+  [31m2183f92[m -[33m (HEAD, master)[m bump version [32m(75 seconds ago)[m
+  [31m4e23bf4[m -[33m[m remove github related dzil plugins [32m(87 seconds ago)[m
+  [31me88045d[m -[33m[m add all the modules even if installed from Debian [32m(4 minutes ago)[m
+  [31me0a1bb5[m -[33m[m remove cpan-outdated [32m(8 minutes ago)[m
+===============================
+2011-09-24 16:15:23 +0200 v0.05
+===============================
+
+  [31mc37f368[m -[33m (v0.05)[m bump version [32m(24 hours ago)[m
+  [31m9fc99fd[m -[33m[m add Any::Moose [32m(24 hours ago)[m
+  [31m29846bf[m -[33m[m add pod related modules [32m(24 hours ago)[m
+  [31m16eb7f3[m -[33m[m remove tests [32m(2 weeks ago)[m
   [31ma2a5333[m -[33m[m add App::cpanoutdated [32m(3 months ago)[m
-  [31me8df6dc[m -[33m[m fix DESCRIPTION [32m(3 months ago)[m
+  [31me8df6dc[m -[33m[m fix DESCRIPTION [32m(4 months ago)[m
 ===================================
 End of changes in the last 365 days
 ===================================
