@@ -1,6 +1,6 @@
 package Task::BeLike::ALEXBIO;
 {
-  $Task::BeLike::ALEXBIO::VERSION = '0.06';
+  $Task::BeLike::ALEXBIO::VERSION = '0.07';
 }
 
 use warnings;
@@ -12,7 +12,7 @@ Task::BeLike::ALEXBIO - A bunch of modules I use
 
 =head1 VERSION
 
-version 0.06
+version 0.07
 
 =head1 SYNOPSIS
 
@@ -24,6 +24,7 @@ Install modules that I want on a fresh perl installation.
 
     Any::Moose
     App::gist
+    Audio::Tagger
     Dist::Zilla
     Dist::Zilla::PluginBundle::Author::ALEXBIO
     Module::CheckDeps

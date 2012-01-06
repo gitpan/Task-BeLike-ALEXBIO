@@ -26,6 +26,7 @@ my %WriteMakefileArgs = (
   "PREREQ_PM" => {
     "Any::Moose" => 0,
     "App::gist" => 0,
+    "Audio::Tagger" => 0,
     "Dist::Zilla" => 0,
     "Dist::Zilla::PluginBundle::Author::ALEXBIO" => 0,
     "Module::CheckDeps" => 0,
@@ -38,7 +39,7 @@ my %WriteMakefileArgs = (
     "strict" => 0,
     "warnings" => 0
   },
-  "VERSION" => "0.06",
+  "VERSION" => "0.07",
   "test" => {
     "TESTS" => "t/*.t"
   }
