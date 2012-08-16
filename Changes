@@ -1,112 +1,16 @@
 ==================================================
-Changes from 2011-01-06 00:00:00 +0000 to present.
+Changes from 2011-08-17 00:00:00 +0000 to present.
 ==================================================
 
 -----------------------------------------
-version 0.07 at 2012-01-06 22:20:30 +0000
+version 0.07 at 2012-08-16 13:18:26 +0000
 -----------------------------------------
 
-  Change: 3b5dd09a40175ae160f378a29f3a2d1a463ee64d
+  Change: 5275a30b86d374838b8450fe21771f0f2941fad0
   Author: Alessandro Ghedini <al3xbio@gmail.com>
-  Date : 2012-01-06 23:20:20 +0000
+  Date : 2012-08-16 15:18:26 +0000
 
-    bump version 
-
-  Change: 573bb1abbb9ff81e0db4193529a3f522b56e50be
-  Author: Alessandro Ghedini <al3xbio@gmail.com>
-  Date : 2012-01-06 23:20:08 +0000
-
-    add Audio::Tagger 
-
------------------------------------------
-version 0.06 at 2011-09-25 14:01:06 +0000
------------------------------------------
-
-  Change: 2183f9234e2c93713b80b67924d84db8ddf4771e
-  Author: Alessandro Ghedini <al3xbio@gmail.com>
-  Date : 2011-09-25 16:01:06 +0000
-
-    bump version 
-
-  Change: 4e23bf49e1c952d2179ada45a20c4c2a994c128e
-  Author: Alessandro Ghedini <al3xbio@gmail.com>
-  Date : 2011-09-25 16:00:54 +0000
-
-    remove github related dzil plugins 
-
-  Change: e88045d524d9a8b5119e05481769c34eedbb3aad
-  Author: Alessandro Ghedini <al3xbio@gmail.com>
-  Date : 2011-09-25 15:58:36 +0000
-
-    add all the modules even if installed from Debian 
-
-  Change: e0a1bb5d210d56ce9da78afa191708089da602e1
-  Author: Alessandro Ghedini <al3xbio@gmail.com>
-  Date : 2011-09-25 15:54:22 +0000
-
-    remove cpan-outdated 
-
------------------------------------------
-version 0.05 at 2011-09-24 14:15:23 +0000
------------------------------------------
-
-  Change: c37f368628da42ee01f49d2e72336eade6fc3be3
-  Author: Alessandro Ghedini <al3xbio@gmail.com>
-  Date : 2011-09-24 16:15:23 +0000
-
-    bump version 
-
-  Change: 9fc99fd93bf3e34389577a45b3ee0217e444b45a
-  Author: Alessandro Ghedini <al3xbio@gmail.com>
-  Date : 2011-09-24 16:12:41 +0000
-
-    add Any::Moose 
-
-  Change: 29846bf566bbc902de860fb285c283ee9bff4dd9
-  Author: Alessandro Ghedini <al3xbio@gmail.com>
-  Date : 2011-09-24 15:53:36 +0000
-
-    add pod related modules 
-
-  Change: 16eb7f3287173916942e7418ef6ee5335b71b121
-  Author: Alessandro Ghedini <al3xbio@gmail.com>
-  Date : 2011-09-11 15:35:04 +0000
-
-    remove tests 
-
-  Change: a2a533315275a68715f99e3054522d5d9a9bd72b
-  Author: Alessandro Ghedini <al3xbio@gmail.com>
-  Date : 2011-06-14 11:44:06 +0000
-
-    add App::cpanoutdated 
-
-  Change: e8df6dc296f0ff96c30a931720792a210fc96671
-  Author: Alessandro Ghedini <al3xbio@gmail.com>
-  Date : 2011-06-12 17:54:23 +0000
-
-    fix DESCRIPTION 
-
------------------------------------------
-version 0.04 at 2011-06-08 14:45:30 +0000
------------------------------------------
-
-  Change: 4a3bfbaaed36b3a0f1f781f1e2160ac170b08105
-  Author: Alessandro Ghedini <al3xbio@gmail.com>
-  Date : 2011-06-08 16:45:30 +0000
-
-    bump version 
-
-  Change: 0d7fd7ede800f8f0486fe57332de4b755e6f729b
-  Author: Alessandro Ghedini <al3xbio@gmail.com>
-  Date : 2011-06-08 16:40:55 +0000
-
-    release to CPAN 
-
-  Change: 1a4b2491bbc57d55b5b497d0032592be0521e599
-  Author: Alessandro Ghedini <al3xbio@gmail.com>
-  Date : 2011-06-08 16:39:22 +0000
-
-    first commit 
+    initial commit 
 
 ================
 End of releases.

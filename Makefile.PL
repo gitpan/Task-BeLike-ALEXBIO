@@ -9,7 +9,7 @@ use ExtUtils::MakeMaker 6.30;
 
 
 my %WriteMakefileArgs = (
-  "ABSTRACT" => "A bunch of modules I use",
+  "ABSTRACT" => "Stuff I use",
   "AUTHOR" => "Alessandro Ghedini <alexbio\@cpan.org>",
   "BUILD_REQUIRES" => {
     "File::Find" => 0,
@@ -24,22 +24,14 @@ my %WriteMakefileArgs = (
   "LICENSE" => "perl",
   "NAME" => "Task::BeLike::ALEXBIO",
   "PREREQ_PM" => {
-    "Any::Moose" => 0,
     "App::gist" => 0,
-    "Audio::Tagger" => 0,
-    "Dist::Zilla" => 0,
+    "Config::Identity" => 0,
     "Dist::Zilla::PluginBundle::Author::ALEXBIO" => 0,
-    "Module::CheckDeps" => 0,
-    "Moose" => 0,
-    "Mouse" => 0,
-    "Pod::Coverage::TrustPod" => 0,
-    "Test::Pod" => "1.41",
-    "Test::Pod::Coverage" => "1.08",
     "Text::Todo::Simple" => 0,
     "strict" => 0,
     "warnings" => 0
   },
-  "VERSION" => "0.07",
+  "VERSION" => "0.08",
   "test" => {
     "TESTS" => "t/*.t"
   }

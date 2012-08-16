@@ -9,5 +9,4 @@ dist.ini
 lib/Task/BeLike/ALEXBIO.pm
 t/00-compile.t
 t/release-check-manifest.t
-t/release-pod-coverage.t
 t/release-pod-syntax.t

@@ -1,39 +1,23 @@
 package Task::BeLike::ALEXBIO;
 {
-  $Task::BeLike::ALEXBIO::VERSION = '0.07';
+  $Task::BeLike::ALEXBIO::VERSION = '0.08';
 }
 
-use warnings;
 use strict;
+use warnings;
 
 =head1 NAME
 
-Task::BeLike::ALEXBIO - A bunch of modules I use
+Task::BeLike::ALEXBIO - Stuff I use
 
 =head1 VERSION
 
-version 0.07
-
-=head1 SYNOPSIS
-
-    cpanm Task::BeLike::ALEXBIO
+version 0.08
 
 =head1 DESCRIPTION
 
-Install modules that I want on a fresh perl installation.
-
-    Any::Moose
-    App::gist
-    Audio::Tagger
-    Dist::Zilla
-    Dist::Zilla::PluginBundle::Author::ALEXBIO
-    Module::CheckDeps
-    Moose
-    Mouse
-    Test::Pod
-    Test::Pod::Coverage
-    Pod::Coverage::TrustPod
-    Text::Todo::Simple
+Most of the modules I use are installed via the L<Debian|http://www.debian.org>
+repositories. This task installs those modules not found in Debian.
 
 =head1 AUTHOR
 
@@ -41,7 +25,7 @@ Alessandro Ghedini <alexbio@cpan.org>
 
 =head1 LICENSE AND COPYRIGHT
 
-Copyright 2011 Alessandro Ghedini.
+Copyright 2012 Alessandro Ghedini.
 
 This program is free software; you can redistribute it and/or modify it
 under the terms of either: the GNU General Public License as published
