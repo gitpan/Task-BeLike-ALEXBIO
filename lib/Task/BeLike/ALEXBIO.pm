@@ -1,6 +1,6 @@
 package Task::BeLike::ALEXBIO;
 {
-  $Task::BeLike::ALEXBIO::VERSION = '0.08';
+  $Task::BeLike::ALEXBIO::VERSION = '0.09';
 }
 
 use strict;
@@ -12,7 +12,7 @@ Task::BeLike::ALEXBIO - Stuff I use
 
 =head1 VERSION
 
-version 0.08
+version 0.09
 
 =head1 DESCRIPTION
 
