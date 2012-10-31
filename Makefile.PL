@@ -27,10 +27,11 @@ my %WriteMakefileArgs = (
     "App::gist" => 0,
     "Config::Identity" => 0,
     "Dist::Zilla::PluginBundle::Author::ALEXBIO" => 0,
+    "Git::Raw" => 0,
     "strict" => 0,
     "warnings" => 0
   },
-  "VERSION" => "0.09",
+  "VERSION" => "0.10",
   "test" => {
     "TESTS" => "t/*.t"
   }
