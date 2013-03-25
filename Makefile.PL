@@ -24,6 +24,7 @@ my %WriteMakefileArgs = (
   "LICENSE" => "perl",
   "NAME" => "Task::BeLike::ALEXBIO",
   "PREREQ_PM" => {
+    "App::duino" => 0,
     "App::gist" => 0,
     "Config::Identity" => 0,
     "Dist::Zilla::PluginBundle::Author::ALEXBIO" => 0,
@@ -31,7 +32,7 @@ my %WriteMakefileArgs = (
     "strict" => 0,
     "warnings" => 0
   },
-  "VERSION" => "0.10",
+  "VERSION" => "0.11",
   "test" => {
     "TESTS" => "t/*.t"
   }
